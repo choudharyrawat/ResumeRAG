@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
-const API_BASE = "";
+const API_BASE = "https://resumerag-22xx.onrender.com";
 
 export default function App() {
   const [resumes, setResumes] = useState([]);
