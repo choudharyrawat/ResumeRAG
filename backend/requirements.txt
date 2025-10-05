@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-multipart
+pdfplumber
+python-docx
+scikit-learn
+aiofiles
+requests
+python-dotenv
